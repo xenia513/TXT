@@ -1,0 +1,1 @@
+Bash, Postman, GIT, client-server architecture, devTools, Charles Proxy, Fiddler, Andriod Studio
